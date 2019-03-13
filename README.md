@@ -15,7 +15,7 @@ The project is based off a a starter template provided by Udacity's React Fundam
 
 
 ## Important
-There are a of total twenty books provided by the API `BooksAPI.js`. The backend API uses a fixed set of cached search results and is limited to a particular set of search terms found in the [SEARCH_TERMS.md](https://github.com/ilianapoly/A_Book_Tracking_App/blob/master/SEARCH_TERMS.md") file.
+There are a of total twenty books provided by the API `BooksAPI.js`. The backend API uses a fixed set of cached search results and is limited to a particular set of search terms found in the [SEARCH_TERMS.md](https://github.com/ilianapoly/A_Book_Tracking_App/blob/master/SEARCH_TERMS.md) file.
 ## Issues
 **Search Page**
 The following do not work in firefox but pass in a Google Chrome browser.
