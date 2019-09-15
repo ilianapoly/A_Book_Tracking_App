@@ -1,6 +1,9 @@
 # MyReads Project
 MyReads project is a book lending web application that allows the user to select and organize books into different bookshelf categories.
-The project is based off a a starter template provided by Udacity's React Fundamentals course. 
+The project is based off a a starter template provided by Udacity's React Fundamentals course.
+Refer to the [Rubric.md](https://github.com/ilianapoly/A_Book_Tracking_App/blob/master/RUBRIC.md) for the project specificaiton.
+
+  
 
 ## Install
 1.  Clone this repository.
